@@ -1,0 +1,31 @@
+
+
+
+.resume{
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 50px;
+    
+}
+
+.img{
+    background-image: url(Hero-bg.png);
+    height: 625px; width:100%;
+
+}
+.Contact{
+    padding: 20px;
+    border-radius: 10px;
+    background: black;
+    color: aliceblue;
+}
+.Download{
+    padding: 17px 24px 17px 24px ;
+}
+.dev{
+    padding-left: 60px; padding-right: 60px;
+     align-items: center;
+     border-width: 600px; height: 600px; padding: 80px 97px 80px 97px;
+     border-radius: 16px; align-items: center; justify-content: flex-start;
+     flex-direction: row; position: absolute;
+}
+    
